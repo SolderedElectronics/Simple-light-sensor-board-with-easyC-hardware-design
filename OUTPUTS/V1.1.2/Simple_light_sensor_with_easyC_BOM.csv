@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"K3,K5";"easyC-connector";2;"easyC-SMD";;;
+2;"R3,R4,R1";"0603R";3;"10k";;;
+3;"K4";"HEADER-UPDI";1;"HEADER-UPDI";;;
+4;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+5;"D1";"0402LED";1;"purple";;;
+6;"K1";"JST-SH_2pin_1mm_C145954";1;"JST-SH_2pin_1mm_C145954";;;
+7;"H2,H4,H3,H1";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+8;"R2";"0402R";1;"2k2";;;
+9;"U1";"SOIC-14";1;"ATTINY404-SSNR";;;
+10;"K2";"HEADER_MALE_2X1";1;"HEADER_MALE_2X1";;;
+11;"C2,C1";"0603C";2;"100n";;;
+12;"K6";"DSHP03TS-S";1;"DSHP03TS-S";;;
