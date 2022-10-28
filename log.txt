@@ -1,1 +1,89 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Simple light sensor board with easyC/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/LM393_breakout_easyC.kicad_pcb
+	modified:   CAD/V1.0.0/LM393_breakout_easyC.kicad_pro
+	modified:   CAD/V1.0.0/LM393_breakout_easyC.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/Simple_sensor_easyC.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/Simple_sensor_easyC.kicad_pro
+	modified:   CAD/V1.1.1/Simple_sensor_easyC.kicad_pcb
+	modified:   CAD/V1.1.1/Simple_sensor_easyC.kicad_pro
+	modified:   CAD/V1.1.1/Simple_sensor_easyC.kicad_sch
+	modified:   CAD/V1.1.2/PANEL/Simple_sensor_easyC.kicad_pcb
+	modified:   CAD/V1.1.2/PANEL/Simple_sensor_easyC.kicad_pro
+	modified:   CAD/V1.1.2/Simple_sensor_easyC.kicad_pcb
+	modified:   CAD/V1.1.2/Simple_sensor_easyC.kicad_pro
+	modified:   CAD/V1.1.2/Simple_sensor_easyC.kicad_sch
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/LM393_breakout_easyC_BOM.csv
+	modified:   OUTPUTS/V1.0.0/LM393_breakout_easyC_gerber.zip
+	modified:   OUTPUTS/V1.0.0/LM393_breakout_easyC_ibom.html
+	modified:   OUTPUTS/V1.1.1/Light sensor easyC pinout.jpg
+	modified:   OUTPUTS/V1.1.1/Light sensor easyC_ibom.html
+	modified:   OUTPUTS/V1.1.1/Light_sensor_easyC.pdf
+	modified:   OUTPUTS/V1.1.1/Light_sensor_easyC_3D.step
+	modified:   OUTPUTS/V1.1.1/Light_sensor_easyC_BOM.csv
+	modified:   OUTPUTS/V1.1.2/Simple light sensor board with easyC.pdf
+	modified:   OUTPUTS/V1.1.2/Simple light sensor board with easyC_ibom.html
+	modified:   OUTPUTS/V1.1.2/Simple light sensor with easyC.jpg
+	modified:   OUTPUTS/V1.1.2/Simple_light_sensor_with_easyC_177.4x202.8_40.zip
+	modified:   OUTPUTS/V1.1.2/Simple_light_sensor_with_easyC_3D.step
+	modified:   OUTPUTS/V1.1.2/Simple_light_sensor_with_easyC_BOM.csv
+	modified:   README.md
+	new file:   log.txt
+
+[main d3e0ce3] Updating open source files.
+ 37 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/LM393_breakout_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/LM393_breakout_easyC.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/LM393_breakout_easyC.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Simple_sensor_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Simple_sensor_easyC.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/Simple_sensor_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/Simple_sensor_easyC.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/Simple_sensor_easyC.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.2/PANEL/Simple_sensor_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.2/PANEL/Simple_sensor_easyC.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.2/Simple_sensor_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.2/Simple_sensor_easyC.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.2/Simple_sensor_easyC.kicad_sch
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/LM393_breakout_easyC_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/LM393_breakout_easyC_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/LM393_breakout_easyC_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Light sensor easyC pinout.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Light sensor easyC_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Light_sensor_easyC.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Light_sensor_easyC_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Light_sensor_easyC_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.1.2/Simple light sensor board with easyC.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.2/Simple light sensor board with easyC_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.2/Simple light sensor with easyC.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.2/Simple_light_sensor_with_easyC_177.4x202.8_40.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.2/Simple_light_sensor_with_easyC_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.2/Simple_light_sensor_with_easyC_BOM.csv
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Simple-light-sensor-board-with-easyC-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Simple fire sensor board with easyC/OUTPUTS/V1.1.2: all files are present, commiting...
+Simple-fire-sensor-board-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Simple fire sensor board with easyC to Simple-fire-sensor-board-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Simple light sensor board with easyC/.git/
