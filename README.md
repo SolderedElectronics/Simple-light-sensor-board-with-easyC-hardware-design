@@ -1,10 +1,12 @@
-## --- Product name --- Hardware design
+## Simple light sensor board with easyC Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Buy Simple light sensor board with easyC](https://www.solde.red/333041)      |
 
------- product description ------
+Light is one of the most important things in the life of most living beings. This is why it is common to work with light sensors when learning about electronics. A simple light sensor has a light dependent resistor (LDR) and sensor on a breakout board for easy wiring. The simple sensor comes with easyC connectors onboard, which enables quick and easy connection with the microcontroller.
+
+As the name suggests, an LDR will change its resistance depending on the amount of light it is exposed to. The amount of light and resistance are inversely proportional. The more light it is exposed to, the less resistance it will have. So if there is more light, the board will have a resistance of several hundred Ohms. If the resistor is in the dark, it will have a resistance of several thousand Ohms.
 
 ## Repository contents
 
