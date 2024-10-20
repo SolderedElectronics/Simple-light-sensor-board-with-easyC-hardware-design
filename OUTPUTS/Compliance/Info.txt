@@ -2,4 +2,4 @@ SKU: 333041
 Full product name: Simple light sensor board with easyC
 Country of origin: Croatia
 HS tariff code: 94054090  
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388657100
