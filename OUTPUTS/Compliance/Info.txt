@@ -1,5 +1,5 @@
 SKU: 333041
-Full product name: Simple light sensor board with easyC
+Full product name: Simple light sensor board qwiic
 Country of origin: Croatia
-HS tariff code: 94054090  
+HS tariff code: 85340090
 EAN/UPC barcode: 732388657100
